@@ -1,0 +1,8 @@
+streamlit
+gspread
+pandas
+google-auth
+openpyxl
+gspread-formatting
+python-docx
+google-generativeai
